@@ -1,0 +1,16 @@
+.cover {
+  margin: 92px auto 0 auto;
+  max-width: 1184px;
+  height: 740px;
+  background-image: url("../../images/cover-route-66.jpg");
+  background-size: cover;
+  background-position: 50% 35%;
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    max-width: 320px;
+    max-height: 200px;
+    margin-top: 64px;
+  }
+}
