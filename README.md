@@ -9,6 +9,8 @@ This is a project about traveling across. all the elements are displayed correct
 
 I used grids and flexbox to make this project.
 
+Link to my website: https://itaylapid.github.io/web_project_3/
+
 
 
 
