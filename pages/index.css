@@ -22,13 +22,13 @@
 
 @import url(../blocks/intro/intro.css);
 
-@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro-list/intro-list.css);
 
-@import url(../blocks/intro/__list/_text/intro__list_text_bold.css);
+@import url(../blocks/intro-list/__item/intro-list__item.css);
 
-@import url(../blocks/intro/__list/_item/intro__list_item.css);
+@import url(../blocks/intro-list/__text/intro-list__text.css);
 
-@import url(../blocks/intro/__list/_text/intro__list_text.css);
+@import url(../blocks/intro-list/__text/_bold/intro-list__text_bold.css);
 
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 
@@ -62,7 +62,7 @@
 
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 
-@import url(../blocks/cover/__overlay/_hover/cover__overlay_hover.css);
+@import url(../blocks/cover/__overlay/_hover/);
 
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
