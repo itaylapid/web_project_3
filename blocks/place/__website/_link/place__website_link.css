@@ -1,4 +1,4 @@
-.place__website_link {
+.place__link {
   margin-top: 4px;
   margin: 0;
   font-weight: normal;
@@ -8,6 +8,6 @@
   color: #FFFFFF;
 }
 
-.place__website_link:hover {
+.place__link:hover {
   cursor: pointer;
 }
