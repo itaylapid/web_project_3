@@ -1,7 +1,0 @@
-@media screen and (max-width: 320px) {
-  .logo {
-    max-width: calc(156 / 320 * 100%);
-    padding: 0;
-    margin: 0;
-  }
-}

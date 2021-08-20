@@ -10,20 +10,20 @@
 
 @media screen and (max-width: 1024px) {
   .intro {
-    max-width: 928px;
+    width: calc(100% - 48px * 2);
   }
 }
 
 @media screen and (max-width:768px) {
   .intro {
-    width: calc(100% - 48px);
+    width: calc(100% - 24px * 2);
     margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
-    width: 90%;
+    width: calc(100% - 2 * 16px);
     margin-top: 64px;
     padding: 0;
   }

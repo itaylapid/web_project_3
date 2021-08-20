@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Inter';
-  src: url("../fonts/Inter-3.19/Inter-Desktop/Inter-Bold.otf"), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Bold.woff2") format(woff2), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Bold.woff") format(woff), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Bold.ttf") format(trutype);
-  src: url("../fonts/Inter-3.19/Inter-Desktop/Inter-Medium.otf"), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Medium.woff2") format(woff2), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Medium.woff") format(woff), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Medium.ttf") format(trutype);
-  src: url("../fonts/Inter-3.19/Inter-Desktop/Inter-Regular.otf"), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Regular.woff2") format(woff2), url("../fonts/Inter-3.19/Inter-Desktop/Inter-Regular.woff") format(woff), url("../fonts/Inter-3.19/Inter-Desktop/InterRegular.ttf") format(trutype);
-}

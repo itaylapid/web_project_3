@@ -8,9 +8,23 @@
   align-self: flex-start;
 }
 
+@media screen and (max-width:1024px) {
+  .lead__caption {
+    width: calc(100% - 48px * 2);
+    align-self: left;
+  }
+}
+
 @media screen and (max-width:768px) {
   .lead__caption {
-   align-self: center;
-   width: calc(100% - 48px); 
+    align-self: center;
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width:320px) {
+  .lead__caption {
+    align-self: center;
+    width: calc(100% - 2 * 16px);
   }
 }

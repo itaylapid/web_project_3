@@ -1,5 +1,6 @@
-.lang-list {
+.header__list {
   display: flex;
   list-style: none;
   column-gap: 18px;
+  text-decoration: none;
 }
