@@ -15,7 +15,6 @@
 
 @media screen and (max-width: 540px) {
   .place__website {
-    list-style: none;
     align-self: flex-start;
     margin-bottom: 30px;
     padding: 0 16px;

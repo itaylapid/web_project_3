@@ -5,13 +5,11 @@
   grid-template-columns: repeat(4, 1fr);
   margin: 0 auto;
   justify-content: center;
-  border: 1px red solid;
 
 }
 
 @media screen and (max-width: 1024px) {
   .photo-grid {
-    display: grid;
     grid-gap: 14px;
     grid-template-columns: repeat(3, 1fr);
   }
@@ -28,7 +26,6 @@
 
 @media screen and (max-width: 320px) {
   .photo-grid {
-    display: grid;
     max-width: calc(100% - 16px * 2);
     grid-template-columns: repeat(1, 1fr);
   }
