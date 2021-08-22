@@ -30,11 +30,11 @@
 
 @import url(../blocks/intro/__list/intro__list.css);
 
-@import url(../blocks/intro/__list/_item/inro__list_item.css);
+@import url(../blocks/intro/__list-item/intro__list-item.css);
 
-@import url(../blocks/intro/__list/_text-bold/intro__list_text-bold.css);
+@import url(../blocks/intro/__list-text/inro__list-text.css);
 
-@import url(../blocks/intro/__list/_text/inro__list_text.css);
+@import url(../blocks/intro/__list-text/_bold/intro__list_text-bold.css);
 
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 
