@@ -4,3 +4,9 @@
   grid-column: 1;
   grid-row: 2;
 }
+
+@media screen and (max-width:540px) {
+  .place__image {
+   margin-bottom: 32px;
+  }
+}

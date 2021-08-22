@@ -6,25 +6,25 @@
   text-transform: uppercase;
   color: #FFFFFF;
   align-self: flex-start;
+  padding: 0;
+  margin: 8px 0 0 0;
 }
 
 @media screen and (max-width:1024px) {
   .lead__caption {
     width: calc(100% - 48px * 2);
-    align-self: left;
   }
 }
 
 @media screen and (max-width:768px) {
   .lead__caption {
-    align-self: center;
     width: calc(100% - 48px);
+    align-self: center;
   }
 }
 
 @media screen and (max-width:320px) {
   .lead__caption {
-    align-self: center;
     width: calc(100% - 2 * 16px);
   }
 }
